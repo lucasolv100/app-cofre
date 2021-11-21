@@ -1,0 +1,15 @@
+C:\Estudos\Cofre\Cofre\bin\Debug\netcoreapp3.1\Cofre.exe
+C:\Estudos\Cofre\Cofre\bin\Debug\netcoreapp3.1\Cofre.deps.json
+C:\Estudos\Cofre\Cofre\bin\Debug\netcoreapp3.1\Cofre.runtimeconfig.json
+C:\Estudos\Cofre\Cofre\bin\Debug\netcoreapp3.1\Cofre.runtimeconfig.dev.json
+C:\Estudos\Cofre\Cofre\bin\Debug\netcoreapp3.1\Cofre.dll
+C:\Estudos\Cofre\Cofre\bin\Debug\netcoreapp3.1\Cofre.pdb
+C:\Estudos\Cofre\Cofre\obj\Debug\netcoreapp3.1\Cofre.csprojAssemblyReference.cache
+C:\Estudos\Cofre\Cofre\obj\Debug\netcoreapp3.1\Cofre.Form1.resources
+C:\Estudos\Cofre\Cofre\obj\Debug\netcoreapp3.1\Cofre.csproj.GenerateResource.cache
+C:\Estudos\Cofre\Cofre\obj\Debug\netcoreapp3.1\Cofre.AssemblyInfoInputs.cache
+C:\Estudos\Cofre\Cofre\obj\Debug\netcoreapp3.1\Cofre.AssemblyInfo.cs
+C:\Estudos\Cofre\Cofre\obj\Debug\netcoreapp3.1\Cofre.csproj.CoreCompileInputs.cache
+C:\Estudos\Cofre\Cofre\obj\Debug\netcoreapp3.1\Cofre.dll
+C:\Estudos\Cofre\Cofre\obj\Debug\netcoreapp3.1\Cofre.pdb
+C:\Estudos\Cofre\Cofre\obj\Debug\netcoreapp3.1\Cofre.genruntimeconfig.cache
